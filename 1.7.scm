@@ -1,4 +1,3 @@
-
 (define (sqrt x)
   (define (average a b)
     (/ (+ a b) 2))
